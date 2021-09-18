@@ -7,7 +7,7 @@
 	-Export HLS, RGB, or Hex Code's by copying them from the entry boxes and pasting them in a different program.
 
 
-		Explaination:
+		Explanation:
 
 	This is pretty self explanatory. A HLS style color picker which is scaled by contrast rather than luminosity. This means that colors left or right of each other will have the same contrast*. This program is more so meant to be a proof of concept than anything else and I would be happy to find that someone implements a system like this into actual drawing software or drawing software plugins.
 
