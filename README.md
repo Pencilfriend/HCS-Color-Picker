@@ -1,3 +1,5 @@
+To run, click on "Application.exe" in the Color Picker folder.
+
 		Using the program: 
 
 	-Click the color pallet to adjust your hue and contrast.
